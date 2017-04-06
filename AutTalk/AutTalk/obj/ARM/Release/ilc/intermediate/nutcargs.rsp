@@ -1,0 +1,9 @@
+/ignoreAccessChecks
+/metadataFile "C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\obj\ARM\Release\ilc\intermediate\ILTransformed\AutTalk.metadata"
+/gvmAssemblyName "System.Private.CoreLib"
+/o
+/sharedGenerics
+/ilmergeinfo "C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\obj\ARM\Release\ilc\intermediate\ILTransformed\AutTalk.csv"
+/sharedGenericsMode StandardHeuristics
+/in "C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\obj\ARM\Release\ilc\intermediate\ILTransformed\AutTalk.ilexe"
+/out "C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\obj\ARM\Release\ilc\intermediate\MDIL\AutTalk.mdilexe"

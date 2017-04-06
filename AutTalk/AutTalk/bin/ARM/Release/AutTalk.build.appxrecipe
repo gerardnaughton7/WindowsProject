@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SAMSUNG</Machine>
+    <WindowsUser>User</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>7e1017db-6e9c-435f-a943-bcfd8c1544f4</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\obj\ARM\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Audio\Interaction\Dislike.wav">
+      <PackagePath>Assets\Audio\Interaction\Dislike.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Audio\Interaction\Goodbye.wav">
+      <PackagePath>Assets\Audio\Interaction\Goodbye.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Audio\Interaction\Hello.wav">
+      <PackagePath>Assets\Audio\Interaction\Hello.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Audio\Interaction\Like.wav">
+      <PackagePath>Assets\Audio\Interaction\Like.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Audio\Interaction\Love.wav">
+      <PackagePath>Assets\Audio\Interaction\Love.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Audio\Needs\Bright.wav">
+      <PackagePath>Assets\Audio\Needs\Bright.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Audio\Needs\Cold.wav">
+      <PackagePath>Assets\Audio\Needs\Cold.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Audio\Needs\Hot.wav">
+      <PackagePath>Assets\Audio\Needs\Hot.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Audio\Needs\Hungry.wav">
+      <PackagePath>Assets\Audio\Needs\Hungry.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Audio\Needs\Loud.wav">
+      <PackagePath>Assets\Audio\Needs\Loud.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Audio\Needs\Sick.wav">
+      <PackagePath>Assets\Audio\Needs\Sick.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Audio\Needs\Sleepy.wav">
+      <PackagePath>Assets\Audio\Needs\Sleepy.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Audio\Needs\Thirsty.wav">
+      <PackagePath>Assets\Audio\Needs\Thirsty.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Audio\Needs\Toilet.wav">
+      <PackagePath>Assets\Audio\Needs\Toilet.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Audio\Wants\Dad.wav">
+      <PackagePath>Assets\Audio\Wants\Dad.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Audio\Wants\Mom.wav">
+      <PackagePath>Assets\Audio\Wants\Mom.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Audio\Wants\Music.wav">
+      <PackagePath>Assets\Audio\Wants\Music.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Audio\Wants\Outside.wav">
+      <PackagePath>Assets\Audio\Wants\Outside.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Audio\Wants\Play.wav">
+      <PackagePath>Assets\Audio\Wants\Play.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Audio\Wants\TV.wav">
+      <PackagePath>Assets\Audio\Wants\TV.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Icons\interaction.png">
+      <PackagePath>Assets\Icons\interaction.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Icons\need.png">
+      <PackagePath>Assets\Icons\need.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Icons\wants.png">
+      <PackagePath>Assets\Icons\wants.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Images\Interaction\Dislike.png">
+      <PackagePath>Assets\Images\Interaction\Dislike.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Images\Interaction\Goodbye.png">
+      <PackagePath>Assets\Images\Interaction\Goodbye.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Images\Interaction\Hello.png">
+      <PackagePath>Assets\Images\Interaction\Hello.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Images\Interaction\Like.png">
+      <PackagePath>Assets\Images\Interaction\Like.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Images\Interaction\Love.png">
+      <PackagePath>Assets\Images\Interaction\Love.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Images\Needs\Bright.png">
+      <PackagePath>Assets\Images\Needs\Bright.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Images\Needs\Cold.png">
+      <PackagePath>Assets\Images\Needs\Cold.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Images\Needs\Hot.png">
+      <PackagePath>Assets\Images\Needs\Hot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Images\Needs\Hungry.png">
+      <PackagePath>Assets\Images\Needs\Hungry.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Images\Needs\Loud.png">
+      <PackagePath>Assets\Images\Needs\Loud.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Images\Needs\Sick.png">
+      <PackagePath>Assets\Images\Needs\Sick.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Images\Needs\Sleepy.png">
+      <PackagePath>Assets\Images\Needs\Sleepy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Images\Needs\Thirsty.png">
+      <PackagePath>Assets\Images\Needs\Thirsty.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Images\Needs\Toilet.png">
+      <PackagePath>Assets\Images\Needs\Toilet.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Images\Wants\Dad.png">
+      <PackagePath>Assets\Images\Wants\Dad.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Images\Wants\Mom.png">
+      <PackagePath>Assets\Images\Wants\Mom.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Images\Wants\Music.png">
+      <PackagePath>Assets\Images\Wants\Music.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Images\Wants\Outside.png">
+      <PackagePath>Assets\Images\Wants\Outside.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Images\Wants\Play.png">
+      <PackagePath>Assets\Images\Wants\Play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Images\Wants\TV.png">
+      <PackagePath>Assets\Images\Wants\TV.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Square150x150Logo.png">
+      <PackagePath>Assets\Square150x150Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Square310x310Logo.png">
+      <PackagePath>Assets\Square310x310Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Square44x44Logo.png">
+      <PackagePath>Assets\Square44x44Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Square71x71Logo.png">
+      <PackagePath>Assets\Square71x71Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\Assets\Wide310x150Logo.png">
+      <PackagePath>Assets\Wide310x150Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\AutTalk.dll">
+      <PackagePath>AutTalk.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\AutTalk.exe">
+      <PackagePath>AutTalk.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\ClrCompression.dll">
+      <PackagePath>ClrCompression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\ARM\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23231.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\ARM\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23231.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\x64\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23231.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\x86\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

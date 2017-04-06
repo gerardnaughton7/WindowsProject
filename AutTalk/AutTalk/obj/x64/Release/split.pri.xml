@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="37245CarlowProductions.AutTalk" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>200</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://37245CarlowProductions.AutTalk/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AutTalk.xr.xml" uri="ms-resource://37245CarlowProductions.AutTalk/Files/AutTalk.xr.xml">
+				<Candidate type="Path">
+					<Value>AutTalk.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://37245CarlowProductions.AutTalk/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="BadgeLogo.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/BadgeLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\BadgeLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Square150x150Logo.png">
+					<Candidate type="Path">
+						<Value>Assets\Square150x150Logo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Square310x310Logo.png">
+					<Candidate type="Path">
+						<Value>Assets\Square310x310Logo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Square44x44Logo.png">
+					<Candidate type="Path">
+						<Value>Assets\Square44x44Logo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Square71x71Logo.png">
+					<Candidate type="Path">
+						<Value>Assets\Square71x71Logo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Wide310x150Logo.png">
+					<Candidate type="Path">
+						<Value>Assets\Wide310x150Logo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Audio">
+					<ResourceMapSubtree name="Interaction">
+						<NamedResource name="Dislike.wav" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Audio/Interaction/Dislike.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Interaction\Dislike.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Goodbye.wav" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Audio/Interaction/Goodbye.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Interaction\Goodbye.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Hello.wav" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Audio/Interaction/Hello.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Interaction\Hello.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Like.wav" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Audio/Interaction/Like.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Interaction\Like.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Love.wav" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Audio/Interaction/Love.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Interaction\Love.wav</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Needs">
+						<NamedResource name="Bright.wav" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Audio/Needs/Bright.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Needs\Bright.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Cold.wav" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Audio/Needs/Cold.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Needs\Cold.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Hot.wav" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Audio/Needs/Hot.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Needs\Hot.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Hungry.wav" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Audio/Needs/Hungry.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Needs\Hungry.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Loud.wav" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Audio/Needs/Loud.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Needs\Loud.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Sick.wav" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Audio/Needs/Sick.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Needs\Sick.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Sleepy.wav" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Audio/Needs/Sleepy.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Needs\Sleepy.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Thirsty.wav" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Audio/Needs/Thirsty.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Needs\Thirsty.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Toilet.wav" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Audio/Needs/Toilet.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Needs\Toilet.wav</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Wants">
+						<NamedResource name="Dad.wav" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Audio/Wants/Dad.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Wants\Dad.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Mom.wav" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Audio/Wants/Mom.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Wants\Mom.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Music.wav" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Audio/Wants/Music.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Wants\Music.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Outside.wav" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Audio/Wants/Outside.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Wants\Outside.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Play.wav" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Audio/Wants/Play.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Wants\Play.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="TV.wav" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Audio/Wants/TV.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Wants\TV.wav</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Icons">
+					<NamedResource name="interaction.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Icons/interaction.png">
+						<Candidate type="Path">
+							<Value>Assets\Icons\interaction.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="need.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Icons/need.png">
+						<Candidate type="Path">
+							<Value>Assets\Icons\need.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="wants.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Icons/wants.png">
+						<Candidate type="Path">
+							<Value>Assets\Icons\wants.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Images">
+					<ResourceMapSubtree name="Interaction">
+						<NamedResource name="Dislike.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Images/Interaction/Dislike.png">
+							<Candidate type="Path">
+								<Value>Assets\Images\Interaction\Dislike.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Goodbye.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Images/Interaction/Goodbye.png">
+							<Candidate type="Path">
+								<Value>Assets\Images\Interaction\Goodbye.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Hello.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Images/Interaction/Hello.png">
+							<Candidate type="Path">
+								<Value>Assets\Images\Interaction\Hello.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Like.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Images/Interaction/Like.png">
+							<Candidate type="Path">
+								<Value>Assets\Images\Interaction\Like.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Love.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Images/Interaction/Love.png">
+							<Candidate type="Path">
+								<Value>Assets\Images\Interaction\Love.png</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Needs">
+						<NamedResource name="Bright.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Images/Needs/Bright.png">
+							<Candidate type="Path">
+								<Value>Assets\Images\Needs\Bright.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Cold.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Images/Needs/Cold.png">
+							<Candidate type="Path">
+								<Value>Assets\Images\Needs\Cold.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Hot.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Images/Needs/Hot.png">
+							<Candidate type="Path">
+								<Value>Assets\Images\Needs\Hot.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Hungry.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Images/Needs/Hungry.png">
+							<Candidate type="Path">
+								<Value>Assets\Images\Needs\Hungry.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Loud.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Images/Needs/Loud.png">
+							<Candidate type="Path">
+								<Value>Assets\Images\Needs\Loud.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Sick.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Images/Needs/Sick.png">
+							<Candidate type="Path">
+								<Value>Assets\Images\Needs\Sick.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Sleepy.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Images/Needs/Sleepy.png">
+							<Candidate type="Path">
+								<Value>Assets\Images\Needs\Sleepy.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Thirsty.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Images/Needs/Thirsty.png">
+							<Candidate type="Path">
+								<Value>Assets\Images\Needs\Thirsty.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Toilet.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Images/Needs/Toilet.png">
+							<Candidate type="Path">
+								<Value>Assets\Images\Needs\Toilet.png</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Wants">
+						<NamedResource name="Dad.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Images/Wants/Dad.png">
+							<Candidate type="Path">
+								<Value>Assets\Images\Wants\Dad.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Mom.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Images/Wants/Mom.png">
+							<Candidate type="Path">
+								<Value>Assets\Images\Wants\Mom.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Music.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Images/Wants/Music.png">
+							<Candidate type="Path">
+								<Value>Assets\Images\Wants\Music.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Outside.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Images/Wants/Outside.png">
+							<Candidate type="Path">
+								<Value>Assets\Images\Wants\Outside.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Play.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Images/Wants/Play.png">
+							<Candidate type="Path">
+								<Value>Assets\Images\Wants\Play.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="TV.png" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Assets/Images/Wants/TV.png">
+							<Candidate type="Path">
+								<Value>Assets\Images\Wants\TV.png</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://37245CarlowProductions.AutTalk/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://37245CarlowProductions.AutTalk/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

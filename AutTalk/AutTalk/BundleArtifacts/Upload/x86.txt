@@ -1,0 +1,2 @@
+MainPackage=C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\bin\x86\Release\Upload\AutTalk_1.1.9.0_x86.appx
+SymbolPackage=C:\Users\User\documents\visual studio 2015\Projects\AutTalk\AutTalk\AppPackages\AutTalk_1.1.9.0\AutTalk_1.1.9.0_x86.appxsym
